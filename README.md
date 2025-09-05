@@ -55,7 +55,7 @@ A modern, responsive fitness tracking application built with React that helps us
    ```bash
    npm install
    # or
-   yarn install
+   yarn 
    ```
 
 3. **Start the development server**

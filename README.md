@@ -125,7 +125,7 @@ fittracker/
 - Detailed exercise routines with completion tracking
 
 *Nutrition Tracker*
-- Macro monitoring with meal suggestions
+- Macro monitoring with meal suggestions of it.
 
 *Progress Page*
 - Statistics and achievement system

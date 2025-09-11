@@ -35,7 +35,7 @@ A modern, responsive fitness tracking application built with React that helps us
 - **Personal info** - Age, height, weight customization
 - **Fitness goals** - Weight loss, muscle gain, general fitness, strength building
 - **Settings** - Toggle workout reminders and nutrition tracking
-- **Real-time BMI** - Automatic calculation based 
+- **Real-time BMI** - Automatic calculation based.
 
 ## 🚀 Getting Started
 

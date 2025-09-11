@@ -158,7 +158,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Tailwind CSS** for the beautiful utility classes
+- **Tailwind CSS** for the beautiful utility classes.
 - **Lucide Icons** for the clean, modern iconography
 - **React Community** for the excellent documentation and resources
 - **Fitness Community** for inspiration on features and functionality

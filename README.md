@@ -41,7 +41,7 @@ A modern, responsive fitness tracking application built with React that helps us
 
 ### Prerequisites
 - Node.js (v14.0.0 or later)
-- npm or yarn package manager
+- npm or yarn package 
 
 ### Installation
 

@@ -9,7 +9,7 @@ A modern, responsive fitness tracking application built with React that helps us
 
 ### 📊 **Dashboard**
 - **Real-time stats** - Workout streaks, completed workouts, daily calories of it
-- **Progress tracking** - Visual progress bars for nutrition goal
+- **Progress tracking** - Visual progress bars for nutrition goal in it
 - **Quick actions** - Jump directly to recommended workouts
 - **Motivational interface** - Clean, encouraging design.
 

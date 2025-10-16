@@ -1,4 +1,4 @@
-# 🏋️‍♂️ FitTracker - Complete Fitness Gym
+# 🏋️‍♂️ FitTracker - Complete Fitness Gym:
 
 A modern, responsive fitness tracking application built with React that helps users manage their workout routines, track nutrition, and monitor their fitness progress into it.
 

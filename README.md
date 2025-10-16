@@ -14,7 +14,7 @@ A modern, responsive fitness tracking application built with React that helps us
 - **Motivational interface** - Clean, encouraging design.
 
 ### 💪 **Workout Plans**
-- **Pre-built routines** - Beginner, Strength Training, and HIIT Cardio
+- **Pre-built routines** - Beginner, Strength Training, and HIIT Cardio.
 - **Detailed exercise info** - Sets, reps, rest periods for each exercise
 - **Progress tracking** - Mark workouts as completed
 - **Exercise tips** - Form guidance and progressive overload advice.
